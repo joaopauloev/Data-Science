@@ -5,7 +5,7 @@
 </p>
 
 # João Paulo Veloso
-<sub>*Entendendo Data Science* e Machine Learning</sub>
+<sub>Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Deep Learning.</sub>
 
 **Sobre mim:**
   
